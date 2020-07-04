@@ -1,5 +1,5 @@
 # Desafio - Deploy Continuo
-Projeto com configurações do kubernetes.
+Projeto com configurações do um deploy continuo.
 ### Tecnologias
 - GoLang
 - Docker
